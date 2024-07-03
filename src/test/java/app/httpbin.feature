@@ -1,4 +1,4 @@
-Feature: simple requests
+Feature: simple request
 
   Scenario: simple POST and GET
     * url 'https://httpbin.org/anything'
