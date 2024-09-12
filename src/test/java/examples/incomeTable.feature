@@ -1,7 +1,6 @@
+Feature: Table to fetch data entry of income and post it to another feature file
 
-Feature: Table to fetch data entry of income with invalid data and post it to another feature file
-
-Scenario:
+Scenario: Test with Invalid entries
     * table income
     | userid | amount | type     | status |
     |   1    | "abcd" | 'income' |  400   |

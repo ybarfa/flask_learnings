@@ -1,4 +1,3 @@
-@ignore
 Feature: Farmer's Profit Loss Calculator
 
 Background:

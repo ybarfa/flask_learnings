@@ -1,7 +1,7 @@
-
 Feature: Table to fetch data entry of kharcha with invalid data and post it to another feature file
 
-Scenario:
+
+Scenario: Test with Invalid entries
 
     * table kharcha
     | userid | amount  |   type    |  status |

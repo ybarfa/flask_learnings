@@ -1,4 +1,3 @@
-@ignore
 Feature: To delete all farmer's Data from Database
 
 
